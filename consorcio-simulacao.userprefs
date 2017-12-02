@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{7D604554-A6D5-4B09-97E4-88F1B79A9B0D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="consorcio-simulacao/Views/Cadastro.aspx">
+    <Files>
+      <File FileName="consorcio-simulacao/Default.aspx" Line="21" Column="7" />
+      <File FileName="consorcio-simulacao/Views/Cadastro.aspx" Line="29" Column="92" />
+      <File FileName="consorcio-simulacao/Views/Cadastro.aspx.cs" Line="112" Column="51" />
+      <File FileName="consorcio-simulacao/Views/Cadastro.aspx.designer.cs" Line="41" Column="1" />
+      <File FileName="consorcio-simulacao/Views/Simulacao.aspx.cs" Line="143" Column="18" />
+      <File FileName="consorcio-simulacao/Default.aspx.cs" Line="93" Column="18" />
+      <File FileName="consorcio-simulacao/Views/Simulacao.aspx" Line="70" Column="5" />
+      <File FileName="consorcio-simulacao/Global.asax" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.consorcio-simulacao PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
